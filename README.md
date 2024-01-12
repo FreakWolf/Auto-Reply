@@ -21,13 +21,13 @@ This Node.js application automatically replies to new emails in your Gmail inbox
 1. Clone the repository:
 
     bash
-    git clone https://github.com/your-username/gmail-auto-reply-bot.git
+    git clone https://github.com/FreakWolf/Auto-Reply.git
     
 
 2. Install dependencies:
 
     bash
-    cd gmail-auto-reply-bot
+    cd Auto-Reply
     npm install
     
 
